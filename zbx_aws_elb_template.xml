@@ -70,7 +70,7 @@
                     <snmp_community></snmp_community>
                     <multiplier>0</multiplier>
                     <snmp_oid></snmp_oid>
-                    <key>elb.sh[&quot;{$AWS_ACCOUNT_ACCESS_KEY}&quot;, &quot;{$AWS_ACCOUNT_SECRET_KEY}&quot;, &quot;{$AWS_REGION_1}&quot;, &quot;{HOSTNAME}&quot;]</key>
+                    <key>elb.sh[&quot;{$AWS_ACCOUNT_ACCESS_KEY}&quot;, &quot;{$AWS_ACCOUNT_SECRET_KEY}&quot;, &quot;{$AWS_REGION}&quot;, &quot;{HOSTNAME}&quot;]</key>
                     <delay>300</delay>
                     <history>1</history>
                     <trends>365</trends>
